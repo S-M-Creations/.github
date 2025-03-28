@@ -3,7 +3,11 @@ Welcome to our GitHub organization! We are two passionate aspiring data professi
 
 ## 🔹 Who We Are 👩‍💻  
 **Shreya & Mruduvani** – Friends, coders, and problem solvers!  
-Check out our personal GitHub Account here: [Shreya's Github](https://github.com/KataruShreya) and [Mruduvani's GitHub](https://github.com/mrudu17)
+Check out our personal GitHub Account here: </br>
+
+- [![GitHub - Shreya](https://img.shields.io/badge/GitHub-Shreya-100000?logo=github&logoColor=white)](https://github.com/KataruShreya) </br>
+- [![GitHub - Mruduvani](https://img.shields.io/badge/GitHub-Mruduvani-100000?logo=github&logoColor=white)](https://github.com/mrudu17)
+
 
 ## 🔹 What We Do 🎯
 We work on projects related to:  
@@ -12,6 +16,6 @@ We work on projects related to:
 - 🤖 Machine Learning and more!
 
 ## 🔹 Our Projects 📌
-🔗 [Project 1](https://github.com/S-M-Creations/SentimentAnalysis-of-Transliterated-SocialMedia-Comments) - Sentiment Analysis of Transliterated Social Media Comments
+🔗 [Project 1](https://github.com/S-M-Creations/Sentiment-Analysis-of-Transliterated-Social-Media-Comments-using-Python) - Sentiment Analysis of Transliterated Social Media Comments
 
 Stay tuned for more awesome work! 😊  
